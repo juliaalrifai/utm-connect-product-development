@@ -10,7 +10,11 @@ Working collaboratively in a university project team, we developed and tested an
 **My role:** Project Management Lead 
 
 **Project:** University of Toronto Mississauga | Digital Enterprise Management | 2024
+## Prototype Screenshots
 
+The following screens show the UTM Connect app prototype developed as part of our university project.
+
+![UTM Connect app prototype screens](utm_connect_prototype_enhanced.png)
 ## The Business Problem
 
 Students often rely on multiple disconnected channels to discover campus events, making it difficult to find relevant opportunities and stay informed.
