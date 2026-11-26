@@ -70,8 +70,6 @@ The project involved:
 
 - Figma for interface design and wireframing.
 - Thunkable for prototype development.
-- Firebase for user authentication.
-- Airtable for data storage.
 - Usability testing and feedback analysis to guide product improvements.
 
 The project was developed as an academic prototype rather than a publicly launched commercial application. Some planned features remained incomplete or required further refinement.
